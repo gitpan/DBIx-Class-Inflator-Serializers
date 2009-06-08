@@ -1,0 +1,24 @@
+Changes
+lib/DBIx/Class/Inflator/JSON.pm
+lib/DBIx/Class/Inflator/Serializers.pm
+lib/DBIx/Class/Inflator/Storable.pm
+lib/DBIx/Class/Inflator/YAML.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README
+t/001_load.t
+t/002_storable.t
+t/003_json.t
+t/004_yaml.t
+t/lib/DBICTest.pm
+t/lib/DBICTest/Schema.pm
+t/lib/DBICTest/Schema/SerializeJSON.pm
+t/lib/DBICTest/Schema/SerializeStorable.pm
+t/lib/DBICTest/Schema/SerializeYAML.pm
+t/lib/DBICTest/Schema/TestTable.pm
+t/lib/sqlite.sql
+t/pod.t
+t/podcoverage.t
+Todo
+META.yml                                 Module meta-data (added by MakeMaker)
